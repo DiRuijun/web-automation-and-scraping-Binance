@@ -4,7 +4,7 @@ This is a program written for extracting key leverage infomation of all currency
 <img width="800" alt="image" src="https://github.com/Emeryanis/Binance_web_automation_and_scraping/assets/142392109/e4ceeb54-4afe-4788-b077-e2e39c68d8f4">
 
 ### API
-All trading currency pairs are accessed from MEXC API.
+All trading currency pairs are accessed via MEXC API.
 ### Web automation
 Web is controlled by a Selenium driver to perform recursive actions including click, input and search to retrieve results automatedly for all the currency pairs.
 ### Web Scraping
