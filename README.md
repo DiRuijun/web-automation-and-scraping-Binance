@@ -1,4 +1,4 @@
-# 🪙 Binance_web_automation_and_scraping
+# 🪙 Binance web automation and scraping
 This is a program written for extracting key leverage infomation of all currency pairs from Binance website (https://www.binance.com/en/futures/trading-rules/perpetual/leverage-margin).
 
 <img width="800" alt="image" src="https://github.com/Emeryanis/Binance_web_automation_and_scraping/assets/142392109/e4ceeb54-4afe-4788-b077-e2e39c68d8f4">
